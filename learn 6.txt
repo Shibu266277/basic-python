@@ -13,7 +13,6 @@ Sample Output :
 
 
 
-
 # CODE:
 import math
 a=int(input())
