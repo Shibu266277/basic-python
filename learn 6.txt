@@ -12,7 +12,6 @@ Sample Output :
 997.66
 
 
-
 # CODE:
 import math
 a=int(input())
