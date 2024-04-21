@@ -5,10 +5,12 @@ The side of an equilateral triangle is provided as the input.
 
 Output Description:
 Find the area of the equilateral triangle and print the answer up to 2 decimal places after rounding off.
+
 Sample Input :
 48
 Sample Output :
 997.66
+
 # CODE:
 import math
 a=int(input())
